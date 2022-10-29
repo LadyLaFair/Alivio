@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Comforter+Brush&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Comforter+Brush&family=Roboto+Slab:wght@400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: Lato; sans-serif;
+    color: #292929;
+}
+
+.wrapper {
+    width: 1370px;
+    margin: 0 auto;
+}
+.header {
+    height: 85px;
+    border-bottom: 1px solid #D6D6D6;
+}
+.first_logo {
+    margin-top: 31px;
+}
+.first_nav {
+    margin-top: 30px;
+}
+
+.first_logo,
+.first_nav {
+    float: left;
+}
+.first_login {
+    float: right;
+    margin: 17px;
+}
+.first_logo a {
+    ma
+}
+.first_logo {
+    margin-right: 170px;
+}
+.first_login a {
+    margin-top: 13px;
+    display: inline-block;
+    margin-right: 55px;
+    text-decoration: none;
+}
+.first_nav ul li {
+    display: inline-block;
+    margin-right: 90px;
+}
+.first_nav ul li:last-of-type {
+
+}
+.first_nav a, .first_login a {
+    color: black;
+    text-decoration: none;
+
+}
+.button {
+    background-color: #01996D;
+    padding: 13px 50px;
+    border-radius: 4px ;
+    transition: background-color .2s ;
+    display: inline-block;
+    text-decoration: none;
+}
+.button:hover {
+    background-color: #018E65;
+}
+.button:hover {
+    background-color: #018E65;
+}
+@media (max-width: 1024px) {
+    .header {
+        height: 128px;
+    }
+    .wrapper {
+        width: 768px;
+    }
+    .fitst_nav {
+        margin-top: 17px;
+        width: 100%;
+    }
+    .first_nav ul li {
+        margin-right: 130px;
+
+    }
+
+}
+
+h1,h2, h3, h4, h5, h6 {
+    font-family: 'Roboto Slab', serif;
+}
+
+.first_background {
+    background-image: url("../BG\ 1.png")
+}
+h1
+ {
+    font-size: 64px;
+    line-height: 110%;
+}
+
+.First_content h1 {
+    color: #01996D;
+}
+.button_big {
+
+}
+
+.first_content {
+    margin-top: 24px;
+}
